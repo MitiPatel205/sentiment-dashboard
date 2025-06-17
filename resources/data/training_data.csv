@@ -1,0 +1,7 @@
+text,sentiment
+"I love this product! It's amazing.",positive
+"Terrible experience, would not recommend.",negative
+"The service was okay, nothing special.",neutral
+"Best purchase I've made this year!",positive
+"Worst customer support ever.",negative
+... (add more training samples)
