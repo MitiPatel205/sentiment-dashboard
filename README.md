@@ -17,7 +17,8 @@ A modern, professional Laravel application for text sentiment analysis, featurin
 
 ## 🖥️ Demo
 
-(/public/screenshot.png)
+![Dashboard Screenshot](public/screenshot.png)
+
 
 ---
 
@@ -90,15 +91,6 @@ public/css/theme.css
 routes/web.php
 ```
 
----
-
-## 📚 Credits
-
-- [Laravel](https://laravel.com/)
-- [php-sentiment-analyzer](https://github.com/davmixcool/php-sentiment-analyzer)
-- [Chart.js](https://www.chartjs.org/)
-
----
 
 ## 📝 License
 
