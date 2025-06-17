@@ -1,9 +1,3 @@
-Absolutely! Here’s a **professional README.md** for your Laravel Sentiment Analysis Dashboard, covering setup, features, usage, and credits.  
-You can copy-paste this into your project root as `README.md`.
-
----
-
-```markdown
 # Sentiment Analysis Dashboard
 
 A modern, professional Laravel application for text sentiment analysis, featuring interactive charts, word clouds, filtering, export, and dark mode.
@@ -23,7 +17,7 @@ A modern, professional Laravel application for text sentiment analysis, featurin
 
 ## 🖥️ Demo
 
-![Dashboard Screenshot](screenshot.png)
+(/public/screenshot.png)
 
 ---
 
